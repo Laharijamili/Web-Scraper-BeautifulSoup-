@@ -1,5 +1,5 @@
 Intern Details
-Domain: Full Stack Web Development
+Domain: Python Programming 
 
 Intern ID: CITS7693
 
