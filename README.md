@@ -1,35 +1,36 @@
-# Web-Scraper-BeautifulSoup-
- Project Title
-Web Scraper Using BeautifulSoup
-
 Intern Details
 Domain: Full Stack Web Development
+
 Intern ID: CITS7693
+
 Name: Jamili Lahari
+
 Duration: 8 Weeks
+
 Organization: CodTech IT Solutions
 
-
 🚀 Project Overview
-A Python-based web scraping application that collects useful information from websites automatically. The project uses BeautifulSoup to extract structured data from HTML web pages and presents the collected information in an organized format.
+A Python-based Web Scraping application designed to automatically collect useful information from websites. The system uses BeautifulSoup to parse HTML web pages, extract structured information, and store the collected data in an organized format such as CSV or JSON.
 
 ✨ Features
-Extract data from web pages
+Web Page Scraping: Automatically fetches information from selected web pages.
 
-Parse HTML using BeautifulSoup
+HTML Parsing: Uses BeautifulSoup to analyze and parse HTML content.
 
-Collect titles, links, text, or other required information
+Data Extraction: Collects titles, links, text, headings, and other required information.
 
-Store scraped data in a structured format
+Structured Storage: Saves scraped information in CSV or JSON format.
 
-Simple and easy-to-use Python implementation
+HTTP Requests: Uses the Requests library to retrieve webpage content.
 
-Handles basic webpage requests and parsing
+Simple Implementation: Easy-to-understand Python-based scraping process.
+
+Organized Output: Presents the extracted information in a clean and readable format.
 
 🛠️ Tech Stack
 Programming Language: Python
 
-Library: BeautifulSoup
+Web Scraping Library: BeautifulSoup4
 
 HTTP Library: Requests
 
@@ -38,21 +39,25 @@ Data Format: CSV / JSON
 IDE: VS Code / PyCharm
 
 📂 Project Structure
-Web-Scraper/
+Web-Scraper-Using-BeautifulSoup/
 │
 ├── scraper.py
 ├── requirements.txt
 ├── output.csv
 └── README.md
-🏃 How to Run
+🏃 How to Run the Project
+Clone the repository:
+
+git clone https://github.com/yourusername/Web-Scraper-Using-BeautifulSoup.git
+cd Web-Scraper-Using-BeautifulSoup
+Install the required libraries:
+
 pip install requests beautifulsoup4
-Then:
+Run the scraper:
 
 python scraper.py
-🎯 Objective
-To automate the process of collecting information from websites and understand the practical implementation of Python web scraping, HTML parsing, and data extraction.
+View the output:
 
-📊 Expected Output
-The scraper extracts the required information from the selected webpage and saves/displays it in an organized format such as CSV, JSON, or a table.
+The scraper collects the required information from the selected webpage.
 
-This is a relatively easy project and is suitable if you want something simple to complete and explain in a viva.
+The extracted data is displayed in the terminal.
