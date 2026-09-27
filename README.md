@@ -1,7 +1,14 @@
 # Web-Scraper-BeautifulSoup-
-
  Project Title
 Web Scraper Using BeautifulSoup
+
+Intern Details
+Domain: Full Stack Web Development
+Intern ID: CITS7693
+Name: Jamili Lahari
+Duration: 8 Weeks
+Organization: CodTech IT Solutions
+
 
 🚀 Project Overview
 A Python-based web scraping application that collects useful information from websites automatically. The project uses BeautifulSoup to extract structured data from HTML web pages and presents the collected information in an organized format.
